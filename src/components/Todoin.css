@@ -1,0 +1,34 @@
+.btn {
+    border: 20px;
+    border-color: darkslategray;
+    background-color: darkslategray;
+}
+
+.btn-primary {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 20px;
+    border-color: darkslategray;
+    color: aliceblue;
+    padding: 5px;
+    text-transform: capitalize;
+    text-shadow: 3px 3px 6px #000;
+    box-shadow: inset 2px 2px 3px rgba(229, 240, 236, 0.6),
+    inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+
+.btn-primary:Hover{
+    background-color: darkcyan;
+}
+
+input{
+    width: 50%;
+    padding: 5px;
+    margin: 1%;
+    border-color:darkslategray;
+    
+}
+
+input:focus{
+    background-color: rgba(250, 250, 250, 0.747);
+}

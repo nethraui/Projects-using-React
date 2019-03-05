@@ -1,0 +1,26 @@
+.removeTodo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    align-content: left;
+    background-color: darkslategrey;
+    border-color: darkslategray;
+    color: aliceblue;
+    text-transform: capitalize;
+    margin: 1%;
+    text-shadow: 3px 3px 6px #000;
+    
+}
+
+.removeTodo:hover{
+    background-color: darkcyan;
+}
+
+.todoWrapper{
+    background-color: rgba(218, 212, 205, 0.89);
+    background-blend-mode: color;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-align: right;
+    width: 70%;
+    padding: 3px;
+    border: 1px solid darkslategray;
+    margin: auto;
+}
